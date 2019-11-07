@@ -1,0 +1,7 @@
+let MD5_SECRET = '098f6bcd4621d373cade4e832627b4f6'
+let SHA1_SECRET = 'a94a8fe5ccb19ba61c4c0873d391e987982fbbd3'
+let AWS_KEY = 'AKIAIOSFODNN7EXAMPLE'
+let AWS_SECRET = 'wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY'
+let MY_EMAIL = 'test@gmail.com'
+let password = '12345'
+let PASSWORD = '12345'
